@@ -21,28 +21,37 @@
       "keyInsights": "discovered the key target audience",
       "projectLink": "https://drive.google.com/drive/folders/1gFux1ahRxaReUnU7V9nu43CqxVGU1H4U?usp=share_link",
       "visuals": []
+    },
+    {
+      "name": "Presentation on Website Tracking",
+      "problemStatement": "",
+      "dataset": "",
+      "toolsUsed": [""],
+      "keyInsights": "",
+      "projectLink": "https://docs.google.com/file/d/1GRAXFQ1-p0Gs5GduyJpQTWZ8Fr4EH64-/edit?usp=docslist_api&filetype=mspresentation",
+      "visuals": []
     }
   ],
   "credentials": {
     "resume": "https://drive.google.com/file/resume.pdf",
     "certifications": [
       {
-        "name": "Google Data Analytics Professional Certificate",
-        "issuer": "Google",
-        "date": "2023",
-        "link": "https://www.coursera.org/account/accomplishments/certificate/123"
+        "name": "Data Analytics Essentials",
+        "issuer": "Cisco Networking Academy",
+        "date": "2024",
+        "link": "https://drive.google.com/file/d/1NshAu66GD47kyf4PMBTQz6IGtUW5H5WF/view?usp=drivesdk"
       },
       {
         "name": "SQL for Data Analysis",
         "issuer": "Udacity",
-        "date": "2023",
-        "link": "https://confirm.udacity.com/certificate/123"
+        "date": "2024",
+        "link": "https://drive.google.com/file/d/1H60RCw069XNKmFnykt1EujOvYdSvwQNC/view?usp=drivesdk"
       },
       {
         "name": "Data Visualization with Tableau",
         "issuer": "Coursera",
-        "date": "2023",
-        "link": "https://www.coursera.org/account/accomplishments/certificate/456"
+        "date": "2024",
+        "link": "https://drive.google.com/drive/folders/1-6VIdFuBoOKQ0wV5l9IWWYqetmNYIQIf"
       }
     ]
   },
