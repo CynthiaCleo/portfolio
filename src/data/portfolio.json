@@ -1,0 +1,57 @@
+{
+  "personalInfo": {
+    "name": "Anyadike Chidera Cynthia",
+    "title": "Data Analyst",
+    "shortBio": "Highly motivated and analytical Economics graduate with strong data analysis, research, and financial modeling skills",
+    "profileImage": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e"
+  },
+  "skillsAndTools": {
+    "programming": ["Python", "SQL"],
+    "dataAnalysis": ["Pandas", "NumPy", "Matplotlib", "Excel"],
+    "visualization": ["Tableau"],
+    "databases": ["MySQL"],
+    "otherTools": ["Jupyter Notebooks", "Google Colab"]
+  },
+  "projects": [
+    {
+      "name": "Suitup Savings",
+      "problemStatement": "Analysis of an expansion into a fintech company",
+      "dataset": "manually generated",
+      "toolsUsed": ["Excel"],
+      "keyInsights": "discovered the key target audience",
+      "projectLink": "https://drive.google.com/drive/folders/1gFux1ahRxaReUnU7V9nu43CqxVGU1H4U?usp=share_link",
+      "visuals": []
+    }
+  ],
+  "credentials": {
+    "resume": "https://drive.google.com/file/resume.pdf",
+    "certifications": [
+      {
+        "name": "Google Data Analytics Professional Certificate",
+        "issuer": "Google",
+        "date": "2023",
+        "link": "https://www.coursera.org/account/accomplishments/certificate/123"
+      },
+      {
+        "name": "SQL for Data Analysis",
+        "issuer": "Udacity",
+        "date": "2023",
+        "link": "https://confirm.udacity.com/certificate/123"
+      },
+      {
+        "name": "Data Visualization with Tableau",
+        "issuer": "Coursera",
+        "date": "2023",
+        "link": "https://www.coursera.org/account/accomplishments/certificate/456"
+      }
+    ]
+  },
+  "contactInfo": {
+    "email": "cynthiacleo77@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/cynthiacleo",
+    "github": "",
+    "kaggle": "",
+    "portfolio": "",
+    "phone": "+234 808 652 2263"
+  }
+}
