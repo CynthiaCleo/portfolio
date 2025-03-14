@@ -85,7 +85,7 @@ function App() {
             <div className="glass-card p-2">
               
                 <img 
-                src="cynthia.png"
+                src="/cynthia.png"
                 alt="Professional headshot"
                 className="rounded-xl w-full"
               />
