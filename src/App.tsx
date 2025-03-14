@@ -83,8 +83,13 @@ function App() {
           </div>
           <div className="lg:w-1/2 animate-fade-in">
             <div className="glass-card p-2">
-              <img 
+              <!--<img 
                 src={personalInfo.profileImage}
+                alt="Professional headshot"
+                className="rounded-xl w-full"
+              />-->
+                <img 
+                src="cynthia.png"
                 alt="Professional headshot"
                 className="rounded-xl w-full"
               />
